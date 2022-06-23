@@ -5,7 +5,7 @@ for(var i = 0; i < document.querySelectorAll(".drum").length; i++){
 document.querySelectorAll(".drum")[i].addEventListener("click", function(){
 
 
-
+/*
 var buttonInnerHTML = this.innerHTML;
 	switch(buttonInnerHTML){
 		case "w":
@@ -52,7 +52,8 @@ var buttonInnerHTML = this.innerHTML;
  
 });
 }
-
+*/
+	
 //KeyBoard Event
 
 
